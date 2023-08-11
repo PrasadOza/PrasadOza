@@ -16,9 +16,7 @@ I've been involved with Python since my Bachelor's (B.E. Electrical from GTU) fr
 
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
-</p>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,aws,azure,cpp,docker,gcp,grafana,kubernetes,linux,matlab,py,r,raspberrypi,ros,tensorflow"/></a>
 </p>
 
 
